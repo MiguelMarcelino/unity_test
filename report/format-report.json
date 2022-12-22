@@ -1,0 +1,470 @@
+[
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "1a7a2a1d-6ded-4785-9d00-eee385f1bb9c"
+      },
+      "FileName": "MyScript.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/MyScript.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 7,
+          "CharNumber": 22,
+          "DiagnosticId": "UNT0001",
+          "FormatDescription": "warning UNT0001: The Unity message \u0027FixedUpdate\u0027 is empty."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "1a7a2a1d-6ded-4785-9d00-eee385f1bb9c"
+      },
+      "FileName": "MyScript.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/MyScript.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 13,
+          "CharNumber": 23,
+          "DiagnosticId": "UNT0002",
+          "FormatDescription": "warning UNT0002: Comparing tags using == is inefficient."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "16ead25b-9d70-4f6c-837c-036c519ca754"
+      },
+      "FileName": "SerializedAttributes.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 15,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027staticField\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "16ead25b-9d70-4f6c-837c-036c519ca754"
+      },
+      "FileName": "SerializedAttributes.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 12,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027PrivateProperty\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "16ead25b-9d70-4f6c-837c-036c519ca754"
+      },
+      "FileName": "SerializedAttributes.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 9,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027publicField\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "16ead25b-9d70-4f6c-837c-036c519ca754"
+      },
+      "FileName": "SerializedAttributes.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 18,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027readonlyField\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "18b2b9c1-10d4-4019-a2e9-ea3eb1ce66c1"
+      },
+      "FileName": "SerializedAttributes99.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes99.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 9,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027publicField2\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "18b2b9c1-10d4-4019-a2e9-ea3eb1ce66c1"
+      },
+      "FileName": "SerializedAttributes99.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes99.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 18,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027readonlyField\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "18b2b9c1-10d4-4019-a2e9-ea3eb1ce66c1"
+      },
+      "FileName": "SerializedAttributes99.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes99.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 15,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027staticField\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "18b2b9c1-10d4-4019-a2e9-ea3eb1ce66c1"
+      },
+      "FileName": "SerializedAttributes99.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes99.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 12,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027PrivateProperty\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "62ed1c6e-09df-4593-ac69-4e276382d90a"
+      },
+      "FileName": "SerializedAttributes2.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes2.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 15,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027staticField\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "62ed1c6e-09df-4593-ac69-4e276382d90a"
+      },
+      "FileName": "SerializedAttributes2.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes2.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 9,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027publicField2\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "62ed1c6e-09df-4593-ac69-4e276382d90a"
+      },
+      "FileName": "SerializedAttributes2.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes2.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 12,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027PrivateProperty\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "62ed1c6e-09df-4593-ac69-4e276382d90a"
+      },
+      "FileName": "SerializedAttributes2.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes2.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 18,
+          "CharNumber": 5,
+          "DiagnosticId": "UNT0013",
+          "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027readonlyField\u0027."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "16ead25b-9d70-4f6c-837c-036c519ca754"
+      },
+      "FileName": "SerializedAttributes.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 7,
+          "CharNumber": 20,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable field \u0027privateField\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "62ed1c6e-09df-4593-ac69-4e276382d90a"
+      },
+      "FileName": "SerializedAttributes2.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes2.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 7,
+          "CharNumber": 20,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable field \u0027privateField2\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "16ead25b-9d70-4f6c-837c-036c519ca754"
+      },
+      "FileName": "SerializedAttributes.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 10,
+          "CharNumber": 19,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable field \u0027publicField\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "62ed1c6e-09df-4593-ac69-4e276382d90a"
+      },
+      "FileName": "SerializedAttributes2.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes2.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 10,
+          "CharNumber": 19,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable field \u0027publicField2\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "62ed1c6e-09df-4593-ac69-4e276382d90a"
+      },
+      "FileName": "SerializedAttributes2.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes2.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 13,
+          "CharNumber": 20,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable property \u0027PrivateProperty\u0027 must contain a non-null value when exiting constructor. Consider declaring the property as nullable."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "16ead25b-9d70-4f6c-837c-036c519ca754"
+      },
+      "FileName": "SerializedAttributes.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 13,
+          "CharNumber": 20,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable property \u0027PrivateProperty\u0027 must contain a non-null value when exiting constructor. Consider declaring the property as nullable."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "18b2b9c1-10d4-4019-a2e9-ea3eb1ce66c1"
+      },
+      "FileName": "SerializedAttributes99.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes99.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 7,
+          "CharNumber": 20,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable field \u0027privateField2\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "18b2b9c1-10d4-4019-a2e9-ea3eb1ce66c1"
+      },
+      "FileName": "SerializedAttributes99.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes99.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 10,
+          "CharNumber": 19,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable field \u0027publicField2\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "18b2b9c1-10d4-4019-a2e9-ea3eb1ce66c1"
+      },
+      "FileName": "SerializedAttributes99.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes99.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 13,
+          "CharNumber": 20,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable property \u0027PrivateProperty\u0027 must contain a non-null value when exiting constructor. Consider declaring the property as nullable."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "18b2b9c1-10d4-4019-a2e9-ea3eb1ce66c1"
+      },
+      "FileName": "SerializedAttributes99.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes99.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 16,
+          "CharNumber": 19,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable field \u0027staticField\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "62ed1c6e-09df-4593-ac69-4e276382d90a"
+      },
+      "FileName": "SerializedAttributes2.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes2.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 16,
+          "CharNumber": 19,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable field \u0027staticField\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+        }
+      ]
+    },
+    {
+      "DocumentId": {
+        "ProjectId": {
+          "Id": "545d31fa-73d9-41a6-a14f-3b368fccd61b"
+        },
+        "Id": "16ead25b-9d70-4f6c-837c-036c519ca754"
+      },
+      "FileName": "SerializedAttributes.cs",
+      "FilePath": "/Users/pedro.pereira/work/test-repos/Unity.Project/SerializedAttributes.cs",
+      "FileChanges": [
+        {
+          "LineNumber": 16,
+          "CharNumber": 19,
+          "DiagnosticId": "CS8618",
+          "FormatDescription": "warning CS8618: Non-nullable field \u0027staticField\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+        }
+      ]
+    }
+  ]
