@@ -9,7 +9,7 @@ public class SerializedAttributes2 : MonoBehaviour
     [SerializeField] // redundant usage
     public string publicField2;
 
-    [SerializeField] // invalid usage - change here
+    [SerializeField]s
     private string PrivateProperty { get; set; }
 
     [SerializeField] // invalid usage
